@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Lost in Silence (Aphelios' Song)",
+  "base_artist": "Marcus Skeen",
+  "createdAt": "2025-12-01T05:58:45.487360Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lost in Silence (Aphelios' Song)",
+      "artist": "Marcus Skeen",
+      "has_synced": true,
+      "path": "select/01_Lost_in_Silence_(Aphelios'_Song)_Marcus_Skeen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lost in Silence (Aphelios' Song)",
+      "artist": "Marcus Skeen",
+      "has_synced": true,
+      "path": "select/02_Lost_in_Silence_(Aphelios'_Song)_Marcus_Skeen.lrc"
+    }
+  ]
+}
